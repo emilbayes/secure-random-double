@@ -37,9 +37,7 @@ Random doubles are generated in the range `[1, 2)` and then `1` is subtracted to
 generate numbers in `[0, 1)`. In this range all points are
 `2.220446049250313080847263336181640625E-16` apart, with equal probability,
 meaning no numbers are biased or have multiple representations.
-There are `2^52 = 4503599627370496` points in the range, including 0. Numbers
-are precise to 52 decimal digits, meaning you can print the full precision
-with `.toFixed(52)`.
+There are `2^52 = 4503599627370496` points in the range, including 0.
 
 Heres a list of fun points:
 
