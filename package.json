@@ -1,6 +1,6 @@
 {
   "name": "secure-random-double",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate secure, random doubles that are unbiased and equidistant",
   "main": "index.js",
   "publishConfig": {
